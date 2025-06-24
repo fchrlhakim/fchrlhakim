@@ -11,6 +11,10 @@ I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scal
 
 ![Hakim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fchrlhakim&theme=vision-friendly-dark\&layout=compact)
 
+- Contribution and Streak 
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fchrlhakim&theme=dark" alt="fchrlhakim Streak Stats" /></p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
@@ -18,7 +22,7 @@ I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scal
 ![Hakim Trophy](https://github-profile-trophy.vercel.app/?username=fchrlhakim&theme=darkhub&column=5&row=1&margin-w=15&margin-h=15) -->
 
 
-🔥 let's connect!
+🔥 connect w/ me!
 
 [![Email: hakimfchrl@gmail.com](https://img.shields.io/badge/-hakimfchrl@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:hakimfchrl@gmail.com)&nbsp;
 [![Telegram: hakimfchrl](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white&link=https://t.me/hakimfchrl)](https://t.me/hakimfchrl)&nbsp;
