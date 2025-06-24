@@ -1,6 +1,6 @@
 ## New Acc!
 
-I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scalable systems and automation... but life said, "Surprise, you're a Full-Stack Developer now!" 😅
+I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scalable systems and automation... but life said, "Boom, you're a Full-Stack now!" 😅
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - Top Language of Mine 💻
@@ -9,7 +9,7 @@ I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scal
 
 - WakaTime Coding Hours ⏳
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fchrlhakim&theme=vision-friendly-dark\&layout=compact)
+![Hakim's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fchrlhakim&theme=vision-friendly-dark\&layout=compact)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
