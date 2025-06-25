@@ -5,7 +5,12 @@ I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scal
 
 - Top Language of Mine 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchrlhakim&layout=compact&theme=github_dark&langs_count=12)](https://github.com/fchrlhakim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchrlhakim&layout=compact&theme=vision-friendly-dark&langs_count=12)](https://github.com/fchrlhakim/github-readme-stats)
+
+
+- Stats 📅
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fchrlhakim&theme=vision-friendly-dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/fchrlhakim?tab=follow)
 
 - WakaTime Coding Hours ⏳
 
@@ -13,7 +18,7 @@ I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scal
 
 - Contribution and Streak 🔥 
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fchrlhakim&theme=dark" alt="fchrlhakim Streak Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fchrlhakim&theme=vision-friendly-dark" alt="fchrlhakim Streak Stats" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
