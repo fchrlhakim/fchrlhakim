@@ -5,12 +5,12 @@ I'm a **Backend Developer** and **DevOps Engineer** at heart, obsessed with scal
 
 - Top Language of Mine 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchrlhakim&layout=compact&theme=vision-friendly-dark&langs_count=12)](https://github.com/fchrlhakim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fchrlhakim&layout=compact&theme=vision-friendly-dark&langs_count=12)]
 
 
 - Stats 📅
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fchrlhakim&theme=vision-friendly-dark&count_private=true&show_icons=true&line_height=20px)](https://github.com/fchrlhakim?tab=follow)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fchrlhakim&theme=vision-friendly-dark&count_private=true&show_icons=true&line_height=20px)]
 
 - WakaTime Coding Hours ⏳
 
